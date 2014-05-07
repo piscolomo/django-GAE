@@ -11,7 +11,7 @@ Don't forget create your database in your cloud instance
 
 > GRANT ALL PRIVILEGES ON django_test.* TO 'root'@'localhost';
 
-Puth your folder of google_appengine and his lib to the version of django in PYTHONPATH
+Puth your folder of google_appengine and his lib from the version of django in PYTHONPATH
 
 > export PYTHONPATH="C:\\Program Files (x86)\\Google\\google_appengine;C:\\Program Files (x86)\\Google\\google_appengine\\lib\\django-1.5"
 
